@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"존터커","characterIndex":0,"characterName":"존터커 (2)","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"존터커","traits":[],"initialLevel":1,"maxLevel":99,"name":"존터커","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"앨리스","characterIndex":0,"characterName":"!$뢰트너","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"너굴맨","traits":[],"initialLevel":1,"maxLevel":99,"name":"너구리(뢰트너)","nickname":"","note":"","profile":""}
+]
